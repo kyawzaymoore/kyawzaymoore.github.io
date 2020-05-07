@@ -9,6 +9,8 @@ tags:
 subtitle: ''
 ---
 
+![](https://miro.medium.com/max/700/1*MJjTrHkxgJ0F_YfQ4HMsoQ.png)
+
 ဒီ post လေးကတော့ Junior Level တွေ အတွက်ရည်ရွယ်တာလေးဖြစ်ပါတယ်။ .Net Junior Developer အများစုက ရေးနိုင်ပေမယ် ကိုယ်ရေးထားတဲ့ app ကို အရင်ဆုံး localhost မှာတင် IIS နဲ့ဘယ်လို host လို့ရမယ်မှန်း မသိကြတာများပါတယ် အဲအတွက် လေ့လာစမ်းချင်တဲ့ junior level တွေကို ရည်ရွယ်ထားတာပါ။
 
 ## What is IIS?
