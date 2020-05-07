@@ -7,4 +7,4 @@ published: true
 
 My name is Kyaw Zay Moore. know as FiDO
 
-Software Develoer at [Codigo](https://codigo.co "Codigo")
+Software Developer at [Codigo](https://codigo.co "Codigo")
