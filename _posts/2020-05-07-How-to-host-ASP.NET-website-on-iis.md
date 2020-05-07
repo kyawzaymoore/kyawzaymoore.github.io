@@ -6,7 +6,6 @@ tags:
   - 'C#'
   - programming
   - iis
-subtitle: ''
 ---
 
 ![](https://miro.medium.com/max/700/1*MJjTrHkxgJ0F_YfQ4HMsoQ.png)
