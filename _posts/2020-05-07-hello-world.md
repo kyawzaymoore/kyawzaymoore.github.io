@@ -1,5 +1,7 @@
 ---
 published: true
+tags:
+  - diary
 ---
 
 hello world. 
