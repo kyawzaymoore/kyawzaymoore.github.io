@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 published: true
+subtitle: ''
 ---
 
 My name is Kyaw Zay Moore. know as FiDO
