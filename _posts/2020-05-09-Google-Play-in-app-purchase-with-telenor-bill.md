@@ -10,11 +10,10 @@ tags:
 ဖတ်ချင်တာတွေ များနေတာနဲ့Member subscription ဝယ်မယ်ဆုံးဖြတ်လိုက်တယ်။
 အရင် ကလည်း တလဝယ်ဖတ်ဖူးတယ် အဲတုန်းကတော့ cb card နဲ့ပဲ ဝယ်လိုက်တယ် ခုလည်း ဝယ်မယ်ပေါ့ ကြည့်လိုက်တာ google play in app purchase မှာ telenor bill ကိုသွားတွေ့မိတယ်
 
-![96115577_1625967334233177_4615830447119663104_n.jpg]({{site.baseurl}}/_posts/96115577_1625967334233177_4615830447119663104_n.jpg)
+![96115577_1625967334233177_4615830447119663104_n.jpg](https://scontent.frgn5-1.fna.fbcdn.net/v/t1.15752-9/96844269_1625967347566509_135202121619341312_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeFd34xtKPJ4mghO5ELNs0A9rN9e1W1Vdlms317VbVV2WV-pvumBEjHf7Rtf3h8EhWJkRou5gg_ostugl3ve26G-&_nc_oc=AQnct6neITyzOX7zPjTcPrr99Psf1TS4eUJnst-VAJD1eEqblqEiyQZguoRhMBqeX9I&_nc_ht=scontent.frgn5-1.fna&oh=14f1246dbf86774612722aed1d51ce82&oe=5EDA7EB6)
 
 
 မဆိုးဖူးပေါ့ payment card ထည့်သုံးထားရတာထက်တော့ စိတ်ချရတယ် မတော် လျှောက်နှိပ်မိရင် card ထဲက ကပိုက်ဆံတွေ အကုန်ဖြတ်နေမှာကို ဖုန်းbill ကကျ သုံးထောင်ထက်တောင် ပိုရှိဖူးတာမဟုတ်ဖူး အဲဒါနဲ့စမ်းလည်းစမ်းချင်တာနဲ့ဖုန်း bill တသောင်းချက်ချင်းဝယ်ဖြည့်ပီး subscribe လုပ်တာတာ အဆင်ပြေပြေချော့ချော့မွေ့မွေ့ပဲ နောက်ဆို google play in app purchase ကို telenor bill နဲ့လူတိုင်းလွယ်လွယ်ကူကူဝယ်လို့ရတာပေါ့ တချို့ကျ payment card မရှိကြတာများတယ်
 ခု တော့ Medium က ဖတ်ချင်တဲ့ဟာတွေ ဆက်ဖတ်လိုက်အုံးမယ် 
 
-![96359054_471364963643231_7617528329461039104_n.jpg]({{site.baseurl}}/_posts/96359054_471364963643231_7617528329461039104_n.jpg)
-
+![96359054_471364963643231_7617528329461039104_n.jpg](https://scontent.frgn5-1.fna.fbcdn.net/v/t1.15752-9/96371399_471364970309897_7012858051568861184_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeGpeBnWoKed4WJgQgQ2mTU530buq15NKvnfRu6rXk0q-UEc2gt3TKin-x4r94257k6aTSPIZNvY_uq6CY2zm7-A&_nc_oc=AQnldoBWoZQ7ekkRq77KrEogT1gscrhglTI7IJiCQv0l7TmbtWLmjfFqEj3ZxW3R89Y&_nc_ht=scontent.frgn5-1.fna&oh=79fb3ca91c7689e1a15c2f237e4dd14a&oe=5EDAADBA)
