@@ -20,6 +20,10 @@ color:#41a6ab !important;
 body{
  background-color:#1f1c1c !important; 
 }
+
+.blog-tags a {
+    color: #ffffff !important;
+}
 /* --- General --- */
 
 html {
