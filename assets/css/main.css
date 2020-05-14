@@ -1,8 +1,13 @@
 ---
 layout: null
+published: true
 ---
 
 @import url("pygment_highlights.css");
+
+.post-title{
+color: #41a6ab !important;
+}
 
 /* --- General --- */
 
