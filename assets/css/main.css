@@ -24,6 +24,24 @@ body{
 .blog-tags a {
     color: #ffffff !important;
 }
+
+.navbar-custom {
+    background-color: #1f1c1c !important;
+    border-bottom: 1px solid #1f1c1c !important;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    color: #1d797d !important;
+}
+
+.navbar-brand{
+color : #1d797d !important;
+}
+
+footer {
+    border-top: 1px #1f1c1c solid!important;
+    background-color: #1f1c1c!important;
+}
 /* --- General --- */
 
 html {
