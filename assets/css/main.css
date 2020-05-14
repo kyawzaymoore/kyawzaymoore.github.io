@@ -42,6 +42,10 @@ footer {
     border-top: 1px #1f1c1c solid!important;
     background-color: #1f1c1c!important;
 }
+
+footer p.text-muted {
+    color: #41a6ab !important;
+}
 /* --- General --- */
 
 html {
