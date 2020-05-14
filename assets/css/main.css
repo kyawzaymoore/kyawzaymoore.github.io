@@ -50,6 +50,10 @@ footer p.text-muted {
 footer a {
     color: #41a6ab !important;
 }
+
+.post-entry-container{
+color: #ffffff !important;
+}
 /* --- General --- */
 
 html {
