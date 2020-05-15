@@ -38,6 +38,7 @@ body{
 
 .blog-tags a {
     color: #ffffff !important;
+  background-color: none !important;
 }
 
 .blog-tags a:hover {
