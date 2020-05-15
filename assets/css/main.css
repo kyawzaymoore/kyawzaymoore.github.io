@@ -40,6 +40,10 @@ body{
     color: #ffffff !important;
 }
 
+.blog-tags a:hover {
+  color: #0085A1 !important;
+}
+
 .navbar-custom {
     background-color: #1f1c1c !important;
     border-bottom: 1px solid #1f1c1c !important;
