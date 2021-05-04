@@ -4,7 +4,7 @@ tags:
   - diary
 ---
 
-test hello world. 
+hello world. 
 
 This is first blog on beautiful-jekyll
 
