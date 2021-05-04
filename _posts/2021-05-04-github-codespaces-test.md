@@ -7,4 +7,4 @@ tags:
 
 
 
-This is first blog update by github codespaces.
+This is first blog updated by github codespaces.
