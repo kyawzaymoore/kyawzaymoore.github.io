@@ -1,7 +1,7 @@
 ---
 published: true
 tags:
-  - diary
+  - notes
 ---
 
 hello world. 

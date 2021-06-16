@@ -2,7 +2,7 @@
 title: Github Codespaces test
 published: true
 tags:
-  - diary
+  - notes
 ---
 
 

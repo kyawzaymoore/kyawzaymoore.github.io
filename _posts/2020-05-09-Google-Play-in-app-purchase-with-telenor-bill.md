@@ -2,8 +2,7 @@
 published: true
 tag: null
 tags:
-  - diary
-  - payment
+  - notes
 ---
 
 ခုနေ့Medium ကစာတွေဖတ်ရင်း တချို့Member ဖြစ်မှ ဖတ်လို့ရတဲ့ စာတွေက တလမှ သုံးခုပဲဖတ်လို့ရတာ
