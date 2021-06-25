@@ -7,7 +7,7 @@ subtitle: ''
 
 
 
-<img src="http://blog.kyawzaymoore.com/wp-content/uploads/2021/06/xdownload-1.png.pagespeed.ic.Opl0ME9BIA.webp" alt="kzm" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/kyawzaymoore/kyawzaymoore.github.io/master/images/kzm.jpg" alt="kzm" style="zoom:40%;" />
 
 
 
@@ -19,4 +19,4 @@ Portfolio : [http://kyawzaymoore.com](http://kyawzaymoore.com/)
 
 Medium : [https://kyawzaymoore.medium.com](https://kyawzaymoore.medium.com/)
 
-GitHub blog : [https://kyawzaymoore.github.io](https://kyawzaymoore.github.io/)
+Blog : [http://blog.kyawzaymoore.com](http://blog.kyawzaymoore.com/)
